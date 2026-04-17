@@ -51,7 +51,7 @@ Les compétences communes sont :
 ---
 
 # Architecture
-
+```
 Utilisateur
 │
 ▼
@@ -73,7 +73,7 @@ LLM (Llama3)
 │
 ▼
 Réponse
-
+```
 ---
 
 # Technologies utilisées
