@@ -1,0 +1,52 @@
+[
+    {
+        "entreprise": "Thales",
+        "poste": "Alternance - Ingénieur IA H/F",
+        "description": "Vous rejoignez une équipe travaillant sur des systèmes critiques et l'analyse de données complexes. Une bonne maîtrise de Python est attendue pour développer les traitements. Une connaissance de Neo4j ou d'une autre base orientée graphe serait appréciée. Une première approche des LLM, de LangGraph ou d'outils proches constitue un plus. Vous évoluerez dans un environnement Linux avec Git et Docker."
+    },
+    {
+        "entreprise": "Capgemini",
+        "poste": "Alternance - Data Scientist H/F",
+        "description": "Dans le cadre de projets data, vous participerez à la préparation des données, à l'entraînement de modèles et à leur évaluation. Une pratique de Python est indispensable, ainsi qu'une bonne compréhension des bibliothèques de data science comme pandas et scikit-learn. Des bases en SQL sont nécessaires, et une familiarité avec TensorFlow ou PyTorch serait un atout."
+    },
+    {
+        "entreprise": "Sopra Steria",
+        "poste": "Alternance - Data Engineer H/F",
+        "description": "Vous contribuerez à la mise en place de pipelines de données et à l'intégration de flux distribués. Une aisance en Python et SQL est requise. Une connaissance de Docker, Linux et d'outils liés au traitement de données à grande échelle serait appréciée. Une expérience avec Spark ou Kafka représenterait un avantage."
+    },
+    {
+        "entreprise": "Accenture",
+        "poste": "Alternance - Consultant IA H/F",
+        "description": "Vous interviendrez sur des cas d'usage mêlant automatisation, NLP et intégration de solutions IA chez différents clients. Une bonne maîtrise de Python est attendue. Une compréhension des modèles de langage, des approches de retrieval et d'outils comme LangChain ou LangGraph serait très utile. Une connaissance de Docker et Git est aussi recherchée."
+    },
+    {
+        "entreprise": "IBM",
+        "poste": "Alternance - Data Analyst H/F",
+        "description": "Vous serez amené à analyser des données métier, produire des visualisations et participer à la construction d'indicateurs. Le poste demande une bonne pratique de Python, SQL et des outils de manipulation de données comme pandas. Des notions de data visualisation et de reporting sont importantes."
+    },
+    {
+        "entreprise": "Microsoft",
+        "poste": "Alternance - AI Engineer H/F",
+        "description": "Vous participerez à la conception de solutions d'intelligence artificielle déployées dans le cloud. Une maîtrise de Python est indispensable. Des connaissances en machine learning, sur TensorFlow ou PyTorch par exemple, sont attendues. Une sensibilité aux environnements Azure, Docker et Git serait appréciée."
+    },
+    {
+        "entreprise": "Google",
+        "poste": "Alternance - Machine Learning Engineer H/F",
+        "description": "Vous rejoindrez une équipe travaillant sur des modèles d'apprentissage automatique à grande échelle. Une excellente base en Python est requise. Une expérience avec TensorFlow, le deep learning et l'analyse de données est fortement valorisée. Une compréhension des environnements conteneurisés comme Docker constitue un plus."
+    },
+    {
+        "entreprise": "Amazon",
+        "poste": "Alternance - Data Engineer H/F",
+        "description": "Vous développerez des traitements de données et des outils pour alimenter différentes plateformes analytiques. Le poste nécessite de bonnes compétences en Python et SQL. Une connaissance d'AWS, de Docker, ainsi que d'outils comme Spark ou Kafka serait très appréciée."
+    },
+    {
+        "entreprise": "Meta",
+        "poste": "Alternance - AI Research Engineer H/F",
+        "description": "Vous participerez à des travaux autour de modèles avancés d'intelligence artificielle. Une maîtrise de Python est indispensable. Une expérience en deep learning avec PyTorch est particulièrement recherchée. Des notions autour des LLM, des graphes ou des Graph Neural Networks seraient un vrai plus."
+    },
+    {
+        "entreprise": "Neo4j",
+        "poste": "Alternance - Graph Data Engineer H/F",
+        "description": "Vous travaillerez sur des applications exploitant des bases de données graphes et des usages orientés recommandation ou recherche de relations. Une bonne maîtrise de Python est attendue. La connaissance de Neo4j, du langage Cypher et des concepts de graph data science serait fortement appréciée. Des bases en machine learning et Docker sont également utiles."
+    }
+]

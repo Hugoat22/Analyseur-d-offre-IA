@@ -1,0 +1,7 @@
+{
+    "nom" : "Atlan",
+    "prenom" : "hugo",
+    "competences" : ["Python", "C", "R", "SQL", "Linux", "Git", "Rust"],
+    "experience" : 3,
+    "contract_duree" : 24
+}
