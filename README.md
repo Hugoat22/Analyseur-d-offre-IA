@@ -114,10 +114,12 @@ Le graphe contient :
 
 ### 1 Configurer le `.env`
 
+```
 URL_NEO4J=neo4j://localhost:7687
 DATABASE_NEO4J=neo4j
 PASSWORD_NEO4J=password
 URL_LLM=http://localhost:11434/api/generate
+```
 
 ### 2 installer les dépendances
 
